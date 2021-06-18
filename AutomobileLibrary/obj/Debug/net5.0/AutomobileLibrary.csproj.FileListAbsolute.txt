@@ -1,0 +1,12 @@
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\bin\Debug\net5.0\ref\AutomobileLibrary.dll
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csprojAssemblyReference.cache
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
+D:\01_Docs\FPT_University\CN5\PRN211\Hands-on labs\Lab1_Solution_Automobile\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
